@@ -15,7 +15,7 @@ layout:
 
 # BIENVENUE SUR POKELEGENDS !
 
-Voici le wiki du serveur, il vous guidera tout au long de votre aventure ! ✨
+Voici le wiki du serveur PokeLegends, il vous guidera tout au long de votre aventure ! ✨
 
 Dans celui-ci, vous retrouverez différentes thématiques qui engloberont la majeure partie des choses à savoir sur le serveur PokeLegends !
 
