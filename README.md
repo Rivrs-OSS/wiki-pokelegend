@@ -49,9 +49,8 @@ Assurez-vous d’utiliser la version <mark style="color:blue;">**1.20.4**</mark>
 
 <figure><img src=".gitbook/assets/Capture d’écran 2025-02-19 à 12.17.34.png" alt=""><figcaption><p><strong>Interface Java</strong></p></figcaption></figure>
 
-{% hint style="warning" %}
-Pensez à bien activer le ressource pack serveur avant de vous connecter !
-{% endhint %}
+> [!WARNING]  
+> Pensez à bien activer le ressource pack serveur avant de vous connecter !
 
 ### <mark style="color:blue;">Lire le guide détaillé</mark>
 
