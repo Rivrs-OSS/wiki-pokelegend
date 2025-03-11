@@ -17,7 +17,7 @@ layout:
 
 Voici le wiki du serveur PokeLegends, il vous guidera tout au long de votre aventure ! ✨
 
-Dans celui-ci, vous retrouverez différentes thématiques qui engloberont la majeure partie des choses à savoir sur le serveur PokeLegends !
+Dans celui-ci, vous retrouverez différentes thématiques qui engloberont la majeure partie des choses à savoir sur le serveur [PokeLegends](https://pokelegends.fr) !
 
 ## <mark style="color:blue;">Présentation Générale</mark>
 
