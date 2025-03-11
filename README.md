@@ -75,7 +75,7 @@ Ce Wiki est régulièrement mis à jour par notre communauté et l’équipe du 
 
 Vous pouvez y contribuer en proposant des <mark style="color:blue;">**améliorations**</mark>, en signalant des erreurs ou en posant vos questions.&#x20;
 
-Rendez-vous sur notre forum <mark style="color:blue;">**GitHub**</mark> ou contactez un membre du staff pour en savoir plus.
+Rendez-vous sur notre forum [<mark style="color:blue;">**GitHub**</mark>](https://github.com/Rivrs-OSS/wiki-pokelegend) ou contactez un membre du staff pour en savoir plus.
 
 Nous espérons que ce Wiki vous aidera à découvrir tout ce que <mark style="color:blue;">**PokeLegends**</mark> a à offrir et à faire de votre aventure une expérience inoubliable  !
 
