@@ -25,8 +25,8 @@ Voici les différents fossiles que vous pouvez obtenir ainsi que les Pokémon qu
 * **Vieil Ambre** 🦇 → Ptéra _– Type Roche / Vol_
 * **Fossile Racine** 🌿 → Lilia _– Type Roche / Plante_
 * **Fossile Griffe** 🦐 → Anorith _– Type Roche / Insecte_
-* **Fossile Crâne** 💀 → Dinoclier _– Type Roche_
-* **Fossile Armure** 🛡️ → Bastiodon _– Type Roche / Acier_
+* **Fossile Crâne** 💀 → Kranidos _– Type Roche_
+* **Fossile Armure** 🛡️ → Dinoclier _– Type Roche / Acier_
 * **Fossile Plaque** 🐢 → Carapagos _– Type Roche / Eau_
 * **Fossile Plume** 🦜 → Arkéapti _– Type Roche / Vol_
 * **Fossile Mâchoire** 🦖 → Ptyranidur _– Type Roche / Dragon_
