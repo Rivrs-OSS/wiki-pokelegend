@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant le spawn
+description: Retrouvez ici toutes les informations concernant le ranch
 ---
 
 # Le Ranch sur PokéLegend
