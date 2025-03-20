@@ -32,8 +32,8 @@ Les Pokémon doivent appartenir au <mark style="color:blue;">**même groupe de r
 
 ## 3. Obtention et éclosion des Œufs
 Si les conditions sont réunies, le Ranch produira un <mark style="color:blue;">**œuf de Pokémon**</mark>. Cet œuf peut éclore de deux manières :
--<mark style="color:blue;">**Instantanément**</mark> avec la commande `/hatch`
--<mark style="color:blue;">**En marchant**</mark> avec l'œuf dans un slot de Pokémon actif
+- <mark style="color:blue;">**Instantanément**</mark> avec la commande `/hatch`
+- <mark style="color:blue;">**En marchant**</mark> avec l'œuf dans un slot de Pokémon actif
 
 ## 4. Améliorations du Ranch
 ### 4.1 Mise à jour hors ligne
