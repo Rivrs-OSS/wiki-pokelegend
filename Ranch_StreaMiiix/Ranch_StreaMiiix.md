@@ -101,4 +101,4 @@ Voici toutes les structures réalisables afin d'obtenir ce <mark style="color:bl
 Le Ranch peut être <mark style="color:blue;">**détruit avec une pioche**</mark> et sera <mark style="color:blue;">**récupérable**</mark> pour être replacé ailleurs. L'item <mark style="color:blue;">**Mise à jour hors ligne**</mark> sera lâché lors du procédé.
 
 ---
-*Dernière mise à jour : [20/03/2025]*
+*Dernière mise à jour : [21/03/2025]*
