@@ -97,6 +97,8 @@ Voici toutes les structures réalisables afin d'obtenir ce <mark style="color:bl
 
 <figure><img src="../Ranch_StreaMiiix/Vol.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Vol</code></strong></mark></p></figcaption></figure>
 
+Ces images proviennent du <mark style="color:blue;">**/pw Wikiranch**</mark> que vous pouvez retrouver en jeu si vous avez un oubli. Merci à eux de leur contribution !
+
 ## 🔄 Récupération du Ranch
 Le Ranch peut être <mark style="color:blue;">**détruit avec une pioche**</mark> et sera <mark style="color:blue;">**récupérable**</mark> pour être replacé ailleurs. L'item <mark style="color:blue;">**Mise à jour hors ligne**</mark> sera lâché lors du procédé.
 
