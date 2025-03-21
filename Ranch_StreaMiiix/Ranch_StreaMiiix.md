@@ -6,6 +6,7 @@ description: Retrouvez ici toutes les informations concernant le ranch
 
 Le <mark style="color:blue;">**Ranch**</mark> est un item rare permettant l'accouplement de Pokémon sur le serveur <mark style="color:blue;">**PokéLegend**</mark>. Il permet d'obtenir des œufs sous certaines conditions et offre diverses optimisations.
 
+<figure><img src="../.gitbook/Ranch_StreaMiiix/Ranch.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Le Ranch en jeu</code></strong></mark></p></figcaption></figure>
 ![Le Ranch en jeu](Ranch_StreaMiiix/Ranch.png)
 
 ## 🎁 Obtention du Ranch
