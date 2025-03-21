@@ -6,8 +6,7 @@ description: Retrouvez ici toutes les informations concernant le ranch
 
 Le <mark style="color:blue;">**Ranch**</mark> est un item rare permettant l'accouplement de Pokémon sur le serveur <mark style="color:blue;">**PokéLegend**</mark>. Il permet d'obtenir des œufs sous certaines conditions et offre diverses optimisations.
 
-<figure><img src="../.gitbook/Ranch_StreaMiiix/Ranch.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Le Ranch en jeu</code></strong></mark></p></figcaption></figure>
-![Le Ranch en jeu](Ranch_StreaMiiix/Ranch.png)
+<figure><img src="../Ranch_StreaMiiix/Ranch.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Le Ranch en jeu</code></strong></mark></p></figcaption></figure>
 
 ## 🎁 Obtention du Ranch
 Le <mark style="color:blue;">**Ranch**</mark> peut être obtenu de différentes manières :
@@ -23,7 +22,7 @@ Une fois posé, le Ranch permet d'accoupler <mark style="color:blue;">**deux Pok
 - Si un Pokémon atteint <mark style="color:blue;">**0 de fertilité**</mark>, il ne peut plus être utilisé dans le Ranch et un message s'affichera :  
   ➜ *"Vos Pokémon n'ont plus de fertilité".*
 
-![Fertilité d'un Pokémon](Ranch_StreaMiiix/Fertilité.png)
+<figure><img src="../Ranch_StreaMiiix/Fertilité.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Fertilité d'un Pokémon</code></strong></mark></p></figcaption></figure>
 
 ### 💑 Compatibilité entre Pokémon
 Les Pokémon doivent appartenir au <mark style="color:blue;">**même groupe de reproduction**</mark> pour être compatibles. Les groupes existants sont :
@@ -64,39 +63,39 @@ Des constructions spécifiques autour du Ranch permettent <mark style="color:blu
 
 Voici toutes les structures réalisables afin d'obtenir ce <mark style="color:blue;">**boost**</mark> :
 
-![<mark style="color:blue;">**Structure Acier**</mark>](Ranch_StreaMiiix/Acier.png)
+<figure><img src="../Ranch_StreaMiiix/Acier.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Acier</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Combat**</mark>](Ranch_StreaMiiix/Combat.png)
+<figure><img src="../Ranch_StreaMiiix/Combat.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Combat</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Dragon**</mark>](Ranch_StreaMiiix/Dragon.png)
+<figure><img src="../Ranch_StreaMiiix/Dragon.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Dragon</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Eau**</mark>](Ranch_StreaMiiix/Eau.png)
+<figure><img src="../Ranch_StreaMiiix/Eau.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Eau</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Electrique**</mark>](Ranch_StreaMiiix/Electrique.png)
+<figure><img src="../Ranch_StreaMiiix/Electrique.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Electrique</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Fée**</mark>](Ranch_StreaMiiix/Fée.png)
+<figure><img src="../Ranch_StreaMiiix/Fée.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Fée</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Glace**</mark>](Ranch_StreaMiiix/Glace.png)
+<figure><img src="../Ranch_StreaMiiix/Glace.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Glace</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Insecte**</mark>](Ranch_StreaMiiix/Insecte.png)
+<figure><img src="../Ranch_StreaMiiix/Insecte.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Insecte</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Normal**</mark>](Ranch_StreaMiiix/Normal.png)
+<figure><img src="../Ranch_StreaMiiix/Normal.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Normal</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Plante**</mark>](Ranch_StreaMiiix/Plante.png)
+<figure><img src="../Ranch_StreaMiiix/Plante.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Plante</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Poison**</mark>](Ranch_StreaMiiix/Poison.png)
+<figure><img src="../Ranch_StreaMiiix/Poison.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Poison</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Psy**</mark>](Ranch_StreaMiiix/Psy.png)
+<figure><img src="../Ranch_StreaMiiix/Psy.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Psy</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Roche**</mark>](Ranch_StreaMiiix/Roche.png)
+<figure><img src="../Ranch_StreaMiiix/Roche.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Roche</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Sol**</mark>](Ranch_StreaMiiix/Sol.png)
+<figure><img src="../Ranch_StreaMiiix/Sol.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Sol</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Spectre**</mark>](Ranch_StreaMiiix/Spectre.png)
+<figure><img src="../Ranch_StreaMiiix/Spectre.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Spectre</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Ténèbres**</mark>](Ranch_StreaMiiix/Ténèbres.png)
+<figure><img src="../Ranch_StreaMiiix/Ténèbres.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Ténèbres</code></strong></mark></p></figcaption></figure>
 
-![<mark style="color:blue;">**Structure Vol**</mark>](Ranch_StreaMiiix/Vol.png)
+<figure><img src="../Ranch_StreaMiiix/Vol.png" alt=""><figcaption><p><mark style="color:blue;"><strong><code>Structure pour les Pokémons Vol</code></strong></mark></p></figcaption></figure>
 
 ## 🔄 Récupération du Ranch
 Le Ranch peut être <mark style="color:blue;">**détruit avec une pioche**</mark> et sera <mark style="color:blue;">**récupérable**</mark> pour être replacé ailleurs. L'item <mark style="color:blue;">**Mise à jour hors ligne**</mark> sera lâché lors du procédé.
