@@ -33,6 +33,10 @@
 * [🔎 Le PokeHunt](le-gameplay/le-pokehunt.md)
 * [🎰 Le Bingo](le-gameplay/le-bingo.md)
 
+***
+
+* [Le Wiki Pokémon](le-wiki-pokemon.md)
+
 ## 🏙️ Les villes
 
 * [⛪ Arènes](les-villes/arenes.md)
