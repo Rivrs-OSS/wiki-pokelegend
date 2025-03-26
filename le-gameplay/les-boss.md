@@ -121,42 +121,62 @@ Les récompenses sont réparties en <mark style="color:yellow;">**4 Tiers**</mar
 
 ### <mark style="color:yellow;">**Récompenses de Tier 1**</mark>**&#x20;(Pokéball)**
 
-| <mark style="color:yellow;">**Objet**</mark> | <mark style="color:yellow;">**Quantité récupérable**</mark> |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| Hyper Potion                                 | 2 à 3                                                       |
-| Bonbon Rare                                  | 1 à 2                                                       |
-| Hyperball                                    | 6 à 8                                                       |
-| Écaille Cœur                                 | 1                                                           |
+| 🎒 Objet     | 🎲 Quantité | 📊 Chance (%) |
+| ------------ | ----------- | ------------- |
+| Hyper Ball   | 5 à 10      | 1.83          |
+| Niveau Ball  | 4 à 8       | 1.83          |
+| Appât Ball   | 4 à 8       | 1.83          |
+| Masse Ball   | 4 à 8       | 1.83          |
+| Speed Ball   | 4 à 8       | 1.83          |
+| Bis Ball     | 4 à 8       | 1.83          |
+| Filet Ball   | 4 à 8       | 1.83          |
+| Scuba Ball   | 4 à 8       | 1.83          |
+| Rapide Ball  | 4 à 8       | 1.83          |
+| Sombre Ball  | 4 à 8       | 1.83          |
+| Chrono Ball  | 4 à 8       | 1.83          |
+| Hyper Potion | 3 à 6       | 20            |
+| Super Bonbon | 2 à 4       | 19.95         |
+| Écaillecœur  | 2 à 5       | 19.95         |
+| Œuf Chance   | 1           | 9.99          |
+| Multi Exp.   | 1           | 9.99          |
 
 ### <mark style="color:yellow;">**Récompenses de Tier 2**</mark>**&#x20;(Superball)**
 
-| <mark style="color:yellow;">**Objet**</mark> | <mark style="color:yellow;">**Quantité récupérable**</mark> |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| Hyper Potion                                 | 2 à 3                                                       |
-| Potion Max                                   | 1 à 2                                                       |
-| Hyperball                                    | 6 à 8                                                       |
-| Rappel Max                                   | 1                                                           |
-| Pierre Lune                                  | 1                                                           |
-| Pierre Feu                                   | 1                                                           |
-| Pierre Foudre                                | 1                                                           |
-| Pierre Eau                                   | 1                                                           |
-| Pierre Plante                                | 1                                                           |
-| Pierre Soleil                                | 1                                                           |
-| Pierre Glace                                 | 1                                                           |
-| Pierre Aube                                  | 1                                                           |
-| Pierre Nuit                                  | 1                                                           |
-| Peau Métal                                   | 1                                                           |
-| Magmariseur                                  | 1                                                           |
-| Améliorator                                  | 1                                                           |
-| Écaille Draco                                | 1                                                           |
-| Roche Royale                                 | 1                                                           |
-| Croc Rasoir                                  | 1                                                           |
-| Griffe Rasoir                                | 1                                                           |
-| Pierre Ovale                                 | 1                                                           |
-| Bel'Écaille                                  | 1                                                           |
-| Écaille Océan                                | 1                                                           |
-| Dent Océan                                   | 1                                                           |
-| Mouchoir Soie                                | 1                                                           |
+| 🎒 Objet        | 🎲 Quantité | 📊 Chance (%) |
+| --------------- | ----------- | ------------- |
+| Max Potion      | 2 à 3       | 10,08         |
+| Rappel Max      | 2 à 3       | 10,08         |
+| Pierre Feu      | 1           | 1,98          |
+| Pierre Eau      | 1           | 1,98          |
+| Pierre Plante   | 1           | 1,98          |
+| Pierre Nuit     | 1           | 1,98          |
+| Pierre Soleil   | 1           | 1,98          |
+| Pierre Lune     | 1           | 1,98          |
+| Pierre Foudre   | 1           | 1,98          |
+| Pierre Aube     | 1           | 1,98          |
+| Pierre Éclat    | 1           | 1,98          |
+| Pierre Glace    | 1           | 1,98          |
+| Encens Relax    | 1           | 2,21          |
+| Encens Mer      | 1           | 2,21          |
+| Encens Bizarre  | 1           | 2,21          |
+| Encens Fleur    | 1           | 2,21          |
+| Encens Plein    | 1           | 2,21          |
+| Encens Pur      | 1           | 2,21          |
+| Encens Vague    | 1           | 2,21          |
+| Encens Veine    | 1           | 2,21          |
+| Encens Roc      | 1           | 2,21          |
+| Vieille Canne   | 1           | 20,06         |
+| Ceinture Pro    | 1           | 1,82          |
+| Bandeau Muscle  | 1           | 1,82          |
+| Lentilscope     | 1           | 1,82          |
+| Loupe           | 1           | 1,82          |
+| Accro Griffe    | 1           | 1,82          |
+| Herbe Mental    | 1           | 1,82          |
+| Bulbe           | 1           | 1,82          |
+| Boule de Neige  | 1           | 1,82          |
+| Lichen Lumineux | 1           | 1,82          |
+| Pile            | 1           | 1,82          |
+| Lunettes Filtre | 1           | 1,82          |
 
 ### <mark style="color:yellow;">**Récompenses de Tier 3**</mark>**&#x20;(Hyperball)**
 
