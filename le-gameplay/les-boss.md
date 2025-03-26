@@ -48,64 +48,65 @@ Ces récompenses sont réparties en <mark style="color:green;">**4 Tiers**</mark
 
 ### <mark style="color:green;">R</mark><mark style="color:green;">**écompenses de Tier 1**</mark>**&#x20;(Pokéball)**
 
-| <mark style="color:green;">**Objet**</mark> | <mark style="color:green;">**Quantité récupérable**</mark> |
-| ------------------------------------------- | ---------------------------------------------------------- |
-| Potion                                      | 4                                                          |
-| Rappel                                      | 1 à 2                                                      |
-| Pokéball                                    | 10 à 16                                                    |
-| Superball                                   | 6 à 8                                                      |
-| Super Potion                                | 2 à 3                                                      |
+| 🎒 Objet       | 🎲 Quantité | 📊 Chance (%) |
+| -------------- | ----------- | ------------- |
+| Poké Ball      | 6–12        | 12.5          |
+| Honor Ball     | 3–6         | 12.5          |
+| Potion         | 3–6         | 24.98         |
+| Écaille Cœur   | 1–2         | 24.98         |
+| Ralentiqueue   | 1           | 5.01          |
+| Poudre Claire  | 1           | 5.01          |
+| Grosse Racine  | 1           | 5.01          |
+| Bande Étreinte | 1           | 5.01          |
+| Pierrallégée   | 1           | 5.01          |
 
 ### <mark style="color:green;">**Récompenses de Tier 2**</mark>**&#x20;(Superball)**
 
-| <mark style="color:green;">**Objet**</mark> | <mark style="color:green;">**Quantité récupérable**</mark> |
-| ------------------------------------------- | ---------------------------------------------------------- |
-| Hyper Potion                                | 2 à 3                                                      |
-| Bonbon Rare                                 | 1 à 2                                                      |
-| Hyperball                                   | 6 à 8                                                      |
-| Écaille Cœur                                | 1                                                          |
+| Super Potion  | 3 - 6 | 16,70 |
+| ------------- | ----- | ----- |
+| Rappel        | 1 - 3 | 16,67 |
+| Super Ball    | 4 - 8 | 3,84  |
+| Safari Ball   | 3 - 6 | 3,68  |
+| Lune Ball     | 3 - 6 | 3,68  |
+| Copain Ball   | 3 - 6 | 3,68  |
+| Love Ball     | 3 - 6 | 3,68  |
+| Compét'Ball   | 3 - 6 | 3,68  |
+| Faiblo Ball   | 3 - 6 | 3,68  |
+| Luxe Ball     | 3 - 6 | 3,68  |
+| Soin Ball     | 3 - 6 | 3,68  |
+| Boule Fer     | 1     | 16,67 |
+| Balle Lumière | 1     | 16,67 |
 
 ### <mark style="color:green;">R</mark><mark style="color:green;">**écompenses de Tier 3**</mark>**&#x20;(Hyperball)**
 
-| <mark style="color:green;">**Objet**</mark> | <mark style="color:green;">**Quantité récupérable**</mark> |
-| ------------------------------------------- | ---------------------------------------------------------- |
-| Pierre Lune                                 | 1                                                          |
-| Pierre Feu                                  | 1                                                          |
-| Pierre Foudre                               | 1                                                          |
-| Pierre Eau                                  | 1                                                          |
-| Pierre Plante                               | 1                                                          |
-| Pierre Soleil                               | 1                                                          |
-| Pierre Glace                                | 1                                                          |
-| Pierre Aube                                 | 1                                                          |
-| Pierre Nuit                                 | 1                                                          |
+| Pierre Feu                         | 1 | 2,51  |
+| ---------------------------------- | - | ----- |
+| Pierre Eau                         | 1 | 2,51  |
+| Pierre Plante                      | 1 | 2,51  |
+| Pierre Nuit                        | 1 | 2,51  |
+| Pierre Soleil                      | 1 | 2,51  |
+| Pierre Lune                        | 1 | 2,51  |
+| Pierre Foudre                      | 1 | 2,51  |
+| Pierre Aube                        | 1 | 2,51  |
+| Pierre Éclat                       | 1 | 2,51  |
+| Pierre Glace                       | 1 | 2,51  |
+| PV Plus                            | 1 | 4,16  |
+| Protéine                           | 1 | 4,16  |
+| Fer                                | 1 | 4,16  |
+| Calcium                            | 1 | 4,16  |
+| Zinc                               | 1 | 4,16  |
+| Carbone                            | 1 | 4,16  |
+| Grelot Coque                       | 1 | 24,96 |
+| Capsule Technique (CT) de niveau 1 | 1 | 25,01 |
 
 ### <mark style="color:green;">**Récompenses de Tier 4**</mark> **(Masterball)**
 
-| <mark style="color:green;">**Objet**</mark> | <mark style="color:green;">**Quantité récupérable**</mark> |
-| ------------------------------------------- | ---------------------------------------------------------- |
-| Clé Saint Valenti**n**                      | 1                                                          |
-| Bonbons Rares                               | 12 à 16                                                    |
-| Monture Terrestre                           | 1                                                          |
-| Ranch                                       | 1                                                          |
-| Soin Portable                               | 1                                                          |
-| CT aléatoire                                | 1                                                          |
-| Pierre Éclat                                | 1                                                          |
-| Protecteur                                  | 1                                                          |
-| Grelot Zen                                  | 1                                                          |
-| Tissu Fauche                                | 1                                                          |
-| Chantibonbon                                | 1                                                          |
-| Sachet Senteur                              | 1                                                          |
-| Encens Veine                                | 1                                                          |
-| Encens Bizarre                              | 1                                                          |
-| Encens Fleur                                | 1                                                          |
-| Encens Mer                                  | 1                                                          |
-| Encens Plein                                | 1                                                          |
-| Encens Pur                                  | 1                                                          |
-| Encens Roc                                  | 1                                                          |
-| Encens Vague                                | 1                                                          |
-| Encens Doux                                 | 1                                                          |
-| Disque Douteux                              | 1                                                          |
-| Électriseur                                 | 1                                                          |
+| Clé de la Caisse Saint-Patrick | 1      | 19,36 |
+| ------------------------------ | ------ | ----- |
+| Monture Surf                   | 1      | 20    |
+| Ranch                          | 1      | 20    |
+| Super Bonbon                   | 8 - 16 | 20,64 |
+| Guérison de Poche              | 1 - 3  | 20    |
 
 ***
 
