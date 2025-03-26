@@ -62,51 +62,54 @@ Ces récompenses sont réparties en <mark style="color:green;">**4 Tiers**</mark
 
 ### <mark style="color:green;">**Récompenses de Tier 2**</mark>**&#x20;(Superball)**
 
-| Super Potion  | 3 - 6 | 16,70 |
-| ------------- | ----- | ----- |
-| Rappel        | 1 - 3 | 16,67 |
-| Super Ball    | 4 - 8 | 3,84  |
-| Safari Ball   | 3 - 6 | 3,68  |
-| Lune Ball     | 3 - 6 | 3,68  |
-| Copain Ball   | 3 - 6 | 3,68  |
-| Love Ball     | 3 - 6 | 3,68  |
-| Compét'Ball   | 3 - 6 | 3,68  |
-| Faiblo Ball   | 3 - 6 | 3,68  |
-| Luxe Ball     | 3 - 6 | 3,68  |
-| Soin Ball     | 3 - 6 | 3,68  |
-| Boule Fer     | 1     | 16,67 |
-| Balle Lumière | 1     | 16,67 |
+| 🎒 Objet      | 🎲 Quantité | 📊 Chance (%) |
+| ------------- | ----------- | ------------- |
+| Super Potion  | 3 - 6       | 16,70         |
+| Rappel        | 1 - 3       | 16,67         |
+| Super Ball    | 4 - 8       | 3,84          |
+| Safari Ball   | 3 - 6       | 3,68          |
+| Lune Ball     | 3 - 6       | 3,68          |
+| Copain Ball   | 3 - 6       | 3,68          |
+| Love Ball     | 3 - 6       | 3,68          |
+| Compét'Ball   | 3 - 6       | 3,68          |
+| Faiblo Ball   | 3 - 6       | 3,68          |
+| Luxe Ball     | 3 - 6       | 3,68          |
+| Soin Ball     | 3 - 6       | 3,68          |
+| Boule Fer     | 1           | 16,67         |
+| Balle Lumière | 1           | 16,67         |
 
 ### <mark style="color:green;">R</mark><mark style="color:green;">**écompenses de Tier 3**</mark>**&#x20;(Hyperball)**
 
-| Pierre Feu                         | 1 | 2,51  |
-| ---------------------------------- | - | ----- |
-| Pierre Eau                         | 1 | 2,51  |
-| Pierre Plante                      | 1 | 2,51  |
-| Pierre Nuit                        | 1 | 2,51  |
-| Pierre Soleil                      | 1 | 2,51  |
-| Pierre Lune                        | 1 | 2,51  |
-| Pierre Foudre                      | 1 | 2,51  |
-| Pierre Aube                        | 1 | 2,51  |
-| Pierre Éclat                       | 1 | 2,51  |
-| Pierre Glace                       | 1 | 2,51  |
-| PV Plus                            | 1 | 4,16  |
-| Protéine                           | 1 | 4,16  |
-| Fer                                | 1 | 4,16  |
-| Calcium                            | 1 | 4,16  |
-| Zinc                               | 1 | 4,16  |
-| Carbone                            | 1 | 4,16  |
-| Grelot Coque                       | 1 | 24,96 |
-| Capsule Technique (CT) de niveau 1 | 1 | 25,01 |
+| 🎒 Objet                           | 🎲 Quantité | 📊 Chance (%) |
+| ---------------------------------- | ----------- | ------------- |
+| Pierre Feu                         | 1           | 2,51          |
+| Pierre Eau                         | 1           | 2,51          |
+| Pierre Plante                      | 1           | 2,51          |
+| Pierre Nuit                        | 1           | 2,51          |
+| Pierre Soleil                      | 1           | 2,51          |
+| Pierre Lune                        | 1           | 2,51          |
+| Pierre Foudre                      | 1           | 2,51          |
+| Pierre Aube                        | 1           | 2,51          |
+| Pierre Éclat                       | 1           | 2,51          |
+| Pierre Glace                       | 1           | 2,51          |
+| PV Plus                            | 1           | 4,16          |
+| Protéine                           | 1           | 4,16          |
+| Fer                                | 1           | 4,16          |
+| Calcium                            | 1           | 4,16          |
+| Zinc                               | 1           | 4,16          |
+| Carbone                            | 1           | 4,16          |
+| Grelot Coque                       | 1           | 24,96         |
+| Capsule Technique (CT) de niveau 1 | 1           | 25,01         |
 
 ### <mark style="color:green;">**Récompenses de Tier 4**</mark> **(Masterball)**
 
-| Clé de la Caisse Saint-Patrick | 1      | 19,36 |
-| ------------------------------ | ------ | ----- |
-| Monture Surf                   | 1      | 20    |
-| Ranch                          | 1      | 20    |
-| Super Bonbon                   | 8 - 16 | 20,64 |
-| Guérison de Poche              | 1 - 3  | 20    |
+| 🎒 Objet                       | 🎲 Quantité | 📊 Chance (%) |
+| ------------------------------ | ----------- | ------------- |
+| Clé de la Caisse Saint-Patrick | 1           | 19,36         |
+| Monture Surf                   | 1           | 20            |
+| Ranch                          | 1           | 20            |
+| Super Bonbon                   | 8 - 16      | 20,64         |
+| Guérison de Poche              | 1 - 3       | 20            |
 
 ***
 
