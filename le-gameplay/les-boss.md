@@ -180,66 +180,51 @@ Les récompenses sont réparties en <mark style="color:yellow;">**4 Tiers**</mar
 
 ### <mark style="color:yellow;">**Récompenses de Tier 3**</mark>**&#x20;(Hyperball)**
 
-| <mark style="color:yellow;">**Objet**</mark> | <mark style="color:yellow;">**Quantité récupérable**</mark> |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| ROM Feu                                      | 1                                                           |
-| ROM Eau                                      | 1                                                           |
-| ROM Fée                                      | 1                                                           |
-| ROM Acier                                    | 1                                                           |
-| ROM Ténèbres                                 | 1                                                           |
-| ROM Dragon                                   | 1                                                           |
-| ROM Spectre                                  | 1                                                           |
-| ROM Roche                                    | 1                                                           |
-| ROM Insecte                                  | 1                                                           |
-| ROM Psy                                      | 1                                                           |
-| ROM Vol                                      | 1                                                           |
-| ROM Sol                                      | 1                                                           |
-| ROM Poison                                   | 1                                                           |
-| ROM Combat                                   | 1                                                           |
-| ROM Glace                                    | 1                                                           |
-| ROM Électrik                                 | 1                                                           |
-| ROM Plante                                   | 1                                                           |
-| Module Aqua                                  | 1                                                           |
-| Module Choc                                  | 1                                                           |
-| Module Cryo                                  | 1                                                           |
-| Module Pyro                                  | 1                                                           |
-| Roche Lisse                                  | 1                                                           |
-| Roche Chaude                                 | 1                                                           |
-| Roche Humide                                 | 1                                                           |
-| Roche Glace                                  | 1                                                           |
-| Œuf Chance                                   | 1                                                           |
-| CT aléatoire                                 | 1                                                           |
-| Pierre Stase                                 | 1                                                           |
-| Pierre Éclat                                 | 1                                                           |
-| Protecteur                                   | 1                                                           |
-| Grelot Zen                                   | 1                                                           |
-| Tissu Fauche                                 | 1                                                           |
-| Chantibonbon                                 | 1                                                           |
-| Sachet Senteur                               | 1                                                           |
-| Encens Veine                                 | 1                                                           |
-| Encens Bizarre                               | 1                                                           |
-| Encens Fleur                                 | 1                                                           |
-| Encens Mer                                   | 1                                                           |
-| Encens Plein                                 | 1                                                           |
-| Encens Pur                                   | 1                                                           |
-| Encens Roc                                   | 1                                                           |
-| Encens Vague                                 | 1                                                           |
-| Encens Doux                                  | 1                                                           |
-| Disque Douteux                               | 1                                                           |
-| Électriseur                                  | 1                                                           |
+| 🎒 Objet            | 🎲 Quantité | 📊 Chance (%) |
+| ------------------- | ----------- | ------------- |
+| Roche Chaude        | 1           | 2,83          |
+| Roche Humide        | 1           | 2,83          |
+| Roche Glace         | 1           | 2,83          |
+| Roche Lisse         | 1           | 2,83          |
+| Bandeau             | 1           | 2,83          |
+| Métronome           | 1           | 2,83          |
+| Lentille Zoom       | 1           | 2,83          |
+| Boue Noire          | 1           | 4             |
+| Orbe Flamme         | 1           | 4             |
+| Orbe Toxique        | 1           | 4             |
+| Lumargile           | 1           | 4             |
+| Ballon              | 1           | 4             |
+| Super Canne         | 1           | 20,27         |
+| CT de niveau 2      | 1           | 20            |
+| Roche Royale        | 1           | 1,17          |
+| Griffe Rasoir       | 1           | 1,17          |
+| Croc Rasoir         | 1           | 1,17          |
+| Écaille Océan       | 1           | 1,17          |
+| Dent Océan          | 1           | 1,17          |
+| Améliorator         | 1           | 1,17          |
+| CD Douteux          | 1           | 1,17          |
+| Écaille Prismatique | 1           | 1,17          |
+| Magmariseur         | 1           | 1,17          |
+| Électriseur         | 1           | 1,17          |
+| Pierre Ovale        | 1           | 1,17          |
+| Protecteur          | 1           | 1,17          |
+| Tissu Fauche        | 1           | 1,17          |
+| Chantibonbon        | 1           | 1,17          |
+| Sachet Senteur      | 1           | 1,17          |
+| Peau Métal          | 1           | 1,17          |
+| Écaille Draco       | 1           | 1,17          |
 
-### **Récompenses de Tier 4** **(Masterball)**
+### <mark style="color:yellow;">**Récompenses de Tier 4**</mark>**&#x20;(Masterball)**
 
-| <mark style="color:yellow;">**Objet**</mark> | <mark style="color:yellow;">**Quantité récupérable**</mark> |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| Clé Saint Valentin                           | 1                                                           |
-| Monture Aquatique                            | 1                                                           |
-| Master Ball                                  | 1                                                           |
-| Orbe Toxik                                   | 1                                                           |
-| Nœud Destin                                  | 1                                                           |
-| Orbe Flamme                                  | 1                                                           |
-| Orbe Vie                                     | 1                                                           |
-| Bandeau Focus                                | 1                                                           |
+| 🎒 Objet                       | 🎲 Quantité | 📊 Chance (%) |
+| ------------------------------ | ----------- | ------------- |
+| Monture terrestre              | 1           | 14,40         |
+| Super Canne                    | 1           | 14,24         |
+| Master Ball                    | 1           | 14,40         |
+| Capsule Talent                 | 1           | 14,24         |
+| Rosée Âme                      | 1           | 14,24         |
+| Capsule IV                     | 1           | 14,24         |
+| Clé de la caisse Saint-Patrick | 1           | 14,24         |
 
 ***
 
