@@ -236,98 +236,149 @@ Les objets obtenus sont parmi les plus rares et précieux du serveur.
 
 ### <mark style="color:purple;">Récompenses de Tier 1</mark> **(Pokéball)**
 
-| <mark style="color:purple;">**Objet**</mark> | <mark style="color:purple;">**Quantité récupérable**</mark> |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| Potion Max                                   | 4 à 6                                                       |
-| Hyperball                                    | 28 à 32                                                     |
-| Rappel Max                                   | 4 à 6                                                       |
+| 🎒 Objet        | 🎲 Quantité | 📊 Chance (%) |
+| --------------- | ----------- | ------------- |
+| Ceinture Noire  | 1           | 1.55          |
+| Lunettes Noires | 1           | 1.55          |
+| Charbon         | 1           | 1.55          |
+| Croc Dragon     | 1           | 1.55          |
+| Roche Dure      | 1           | 1.55          |
+| Aimant          | 1           | 1.55          |
+| Graine Miracle  | 1           | 1.55          |
+| Eau Mystique    | 1           | 1.55          |
+| Glace Éternelle | 1           | 1.55          |
+| Pic Venin       | 1           | 1.55          |
+| Bec Pointu      | 1           | 1.55          |
+| Ruban de Soie   | 1           | 1.55          |
+| Poudre Argentée | 1           | 1.55          |
+| Sable Doux      | 1           | 1.55          |
+| Rune Sort       | 1           | 1.55          |
+| Cuillère Tordue | 1           | 1.55          |
+| Guérison        | 1 à 3       | 25.03         |
+| CT (Palier 1)   | 1           | 25.03         |
+| Pierre Stase    | 1           | 12.53         |
+| Bracelet Macho  | 1           | 12.53         |
 
 ### <mark style="color:purple;">**Récompenses de Tier 2**</mark> **(Superball)**
 
-| <mark style="color:purple;">**Objet**</mark> | <mark style="color:purple;">**Quantité récupérable**</mark> |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| Veste de Combat                              | 1                                                           |
-| Casque Brut                                  | 1                                                           |
-| Lentilscope                                  | 1                                                           |
-| Mouchoir Choix                               | 1                                                           |
-| Pierreallégée                                | 1                                                           |
-| Bandeau Choix                                | 1                                                           |
-| Bandeau Focus                                | 1                                                           |
-| Lunettes Choix                               | 1                                                           |
-| Lunettes Noires                              | 1                                                           |
-| Mouchoir Soie                                | 1                                                           |
-| Boue Noire                                   | 1                                                           |
-| Balle Lumière                                | 1                                                           |
-| Restes                                       | 1                                                           |
-| CT aléatoire                                 | 1                                                           |
-| Pierre Éclat                                 | 1                                                           |
-| Protecteur                                   | 1                                                           |
-| Grelot Zen                                   | 1                                                           |
-| Tissu Fauche                                 | 1                                                           |
-| Chantibonbon                                 | 1                                                           |
-| Sachet Senteur                               | 1                                                           |
-| Encens Veine                                 | 1                                                           |
-| Encens Bizarre                               | 1                                                           |
-| Encens Fleur                                 | 1                                                           |
-| Encens Mer                                   | 1                                                           |
-| Encens Plein                                 | 1                                                           |
-| Encens Pur                                   | 1                                                           |
-| Encens Roc                                   | 1                                                           |
-| Encens Vague                                 | 1                                                           |
-| Encens Doux                                  | 1                                                           |
-| Disque Douteux                               | 1                                                           |
-| Électriseur                                  | 1                                                           |
-
-***
+| 🎒 Objet         | 🎲 Quantité | 📊 Chance (%) |
+| ---------------- | ----------- | ------------- |
+| Pierre Feu       | 1           | 2.02          |
+| Pierre Eau       | 1           | 2.02          |
+| Pierre Plante    | 1           | 2.02          |
+| Pierre Nuit      | 1           | 2.02          |
+| Pierre Soleil    | 1           | 2.02          |
+| Pierre Lune      | 1           | 2.02          |
+| Pierre Foudre    | 1           | 2.02          |
+| Pierre Aube      | 1           | 2.02          |
+| Pierre Éclat     | 1           | 2.02          |
+| Pierre Glace     | 1           | 2.02          |
+| Capsule Nature   | 1           | 19.94         |
+| Fossile Dôme     | 1           | 1.82          |
+| Fossile Nautile  | 1           | 1.82          |
+| Vieil Ambre      | 1           | 1.82          |
+| Fossile Racine   | 1           | 1.82          |
+| Fossile Griffe   | 1           | 1.82          |
+| Fossile Crâne    | 1           | 1.82          |
+| Fossile Armure   | 1           | 1.82          |
+| Fossile Plaque   | 1           | 1.82          |
+| Fossile Plume    | 1           | 1.82          |
+| Fossile Mâchoire | 1           | 1.82          |
+| Fossile Nageoire | 1           | 1.82          |
+| CT (Palier 2)    | 1           | 20            |
+| Bandeau          | 1           | 1.98          |
+| Lunettes Choix   | 1           | 1.98          |
+| Mouchoir Choix   | 1           | 1.98          |
+| Veste de Combat  | 1           | 1.98          |
+| Restes           | 1           | 1.98          |
+| Évoluroc         | 1           | 1.98          |
+| Orbe Vie         | 1           | 1.98          |
+| Ceinture Force   | 1           | 1.98          |
+| Casque Brut      | 1           | 1.98          |
+| Ceinture Pro     | 1           | 1.98          |
 
 ### <mark style="color:purple;">**Récompenses de Tier 3**</mark> **(Hyperball)**
 
-| <mark style="color:purple;">**Objet**</mark> | <mark style="color:purple;">**Quantité récupérable**</mark> |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| Monture Vol                                  | 1                                                           |
-| Méga-Canne                                   | 1                                                           |
-| Bonbon Rare                                  | 16 à 20                                                     |
+| 🎒 Objet         | 🎲 Quantité | 📊 Chance (%) |
+| ---------------- | ----------- | ------------- |
+| Poids Pouvoir    | 1           | 2.88          |
+| Poignet Pouvoir  | 1           | 2.88          |
+| Ceinture Pouvoir | 1           | 2.88          |
+| Lentille Pouvoir | 1           | 2.88          |
+| Bandeau Pouvoir  | 1           | 2.88          |
+| Chaîne Pouvoir   | 1           | 2.88          |
+| Patch Talent     | 1           | 16.53         |
+| Monture Volante  | 1           | 16.64         |
+| Grelot Zen       | 1           | 8.32          |
+| Nœud Destin      | 1           | 8.32          |
+| CT Tier 3        | 1           | 16.59         |
+| Roche Royale     | 1           | 0.96          |
+| Griffe Rasoir    | 1           | 0.96          |
+| Croc Rasoir      | 1           | 0.96          |
+| Écaille Océan    | 1           | 0.96          |
+| Dent Océan       | 1           | 0.96          |
+| Améliorator      | 1           | 0.96          |
+| CD Douteux       | 1           | 0.96          |
+| Écaille Draco    | 1           | 0.96          |
+| Magmariseur      | 1           | 0.96          |
+| Électriseur      | 1           | 0.96          |
+| Pierre Ovale     | 1           | 0.96          |
+| Protecteur       | 1           | 0.96          |
+| Tissu Fauche     | 1           | 0.96          |
+| Chantibonbon     | 1           | 0.96          |
+| Sachet Senteur   | 1           | 0.96          |
+| Peau Métal       | 1           | 0.96          |
+| Écaille Draco    | 1           | 0.96          |
 
 ### <mark style="color:purple;">**Récompenses de Tier 4**</mark> **(Masterball)**
 
-| <mark style="color:purple;">**Objet**</mark> | <mark style="color:purple;">**Quantité récupérable**</mark> |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| Clé Saint Valentin                           | 1                                                           |
-| Master Ball                                  | 1                                                           |
-| Patch Talent                                 | 1                                                           |
-| Dracaufite Y                                 | 1                                                           |
-| Dracaufite X                                 | 1                                                           |
-| Tortankite                                   | 1                                                           |
-| Florazélite                                  | 1                                                           |
-| Alakazamite                                  | 1                                                           |
-| Altarianite                                  | 1                                                           |
-| Mewtwoïte X                                  | 1                                                           |
-| Mewtwoïte Y                                  | 1                                                           |
-| Blizzarite                                   | 1                                                           |
-| Pharampite                                   | 1                                                           |
-| Nanméouïte                                   | 1                                                           |
-| Dardargnite                                  | 1                                                           |
-| Braségalite                                  | 1                                                           |
-| Gallamite                                    | 1                                                           |
-| Carchacrokite                                | 1                                                           |
-| Gardevoirite                                 | 1                                                           |
-| Roucarnagite                                 | 1                                                           |
-| Scarabruteite                                | 1                                                           |
-| Léviatorite                                  | 1                                                           |
-| Mysdibulite                                  | 1                                                           |
-| Scarhinoïte                                  | 1                                                           |
-| Démolossite                                  | 1                                                           |
-| Kangourexite                                 | 1                                                           |
-| Lucarite                                     | 1                                                           |
-| Charminite                                   | 1                                                           |
-| Ténéfixite                                   | 1                                                           |
-| Jungkoïte                                    | 1                                                           |
-| Cizayoxite                                   | 1                                                           |
-| Sharpedite                                   | 1                                                           |
-| Flagadossite                                 | 1                                                           |
-| Steelixite                                   | 1                                                           |
-| Laggronite                                   | 1                                                           |
-| Tyranocivite                                 | 1                                                           |
+| 🎒 Objet                 | 🎲 Quantité | 📊 Chance (%) |
+| ------------------------ | ----------- | ------------- |
+| Florizarreite            | 1           | 0.77          |
+| Dracaufite X             | 1           | 0.77          |
+| Dracaufite Y             | 1           | 0.77          |
+| Tortankite               | 1           | 0.77          |
+| Dardargnite              | 1           | 0.77          |
+| Roucarnagite             | 1           | 0.77          |
+| Alakazamite              | 1           | 0.77          |
+| Flagadossite             | 1           | 0.77          |
+| Ectoplasmite             | 1           | 0.77          |
+| Kangourexite             | 1           | 0.77          |
+| Scarabrutite             | 1           | 0.77          |
+| Léviatorite              | 1           | 0.77          |
+| Ptéraïte                 | 1           | 0.77          |
+| Pharampite               | 1           | 0.77          |
+| Steelixite               | 1           | 0.77          |
+| Cizayoxite               | 1           | 0.77          |
+| Scarhinoïte              | 1           | 0.77          |
+| Démolossite              | 1           | 0.77          |
+| Tyranocivite             | 1           | 0.77          |
+| Jungkoïte                | 1           | 0.77          |
+| Braségalite              | 1           | 0.77          |
+| Laggronite               | 1           | 0.77          |
+| Gardevoirite             | 1           | 0.77          |
+| Ténéfixite               | 1           | 0.77          |
+| Mysdibulite              | 1           | 0.77          |
+| Charminaïte              | 1           | 0.77          |
+| Élecsprintite            | 1           | 0.77          |
+| Sharpedite               | 1           | 0.77          |
+| Caméruptite              | 1           | 0.77          |
+| Altarianite              | 1           | 0.77          |
+| Oniglaliite              | 1           | 0.77          |
+| Métalossite              | 1           | 0.77          |
+| Carchacrokite            | 1           | 0.77          |
+| Lucarite                 | 1           | 0.77          |
+| Blizzarite               | 1           | 0.77          |
+| Gallamite                | 1           | 0.77          |
+| Nanméouïte               | 1           | 0.77          |
+| Latiasite                | 1           | 2.88          |
+| Latiosite                | 1           | 2.88          |
+| Mewtwoïte X              | 1           | 2.88          |
+| Mewtwoïte Y              | 1           | 2.88          |
+| Gemme Bleu               | 1           | 2.40          |
+| Gemme Rouge              | 1           | 2.40          |
+| Ranch                    | 1           | 24.54         |
+| Clé Caisse Saint-Patrick | 1           | 24.00         |
 
 ***
 
